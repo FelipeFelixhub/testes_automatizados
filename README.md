@@ -1,1 +1,2 @@
-Teste
+Testes automatizados 
+CI/CD
